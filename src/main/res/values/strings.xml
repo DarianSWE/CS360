@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CS360 Darian Gernand Event Tracking App (Option 2) Project One</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_date_mm_dd_yyyy">Event Date (MM/DD/YYYY)</string>
+    <string name="event_list">Event List</string>
+    <string name="add_event">Add Event</string>
+    <string name="grant_sms_permission">Grant SMS Permission</string>
+    <string name="permission_status_unknown">Permission Status: Unknown</string>
+    <string name="sms_pemissions">This app needs SMS permissions to send event notifications.</string>
+    <string name="actions">Actions</string>
+    <string name="delete_event">delete_event</string>
+    <string name="deny_sms_permissions">Deny SMS Permissions</string>
+    <string name="recycler_view_content_description">recycler_view_content_description</string>
+</resources>
